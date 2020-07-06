@@ -96,6 +96,8 @@ background-image: url(&quot;data:image/svg+xml,%3Csvg width='32' height='64' vie
     </nav>
     <header class="py-10">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+
+      <!-- Just showing here how extracted components can be use it with overrides styles -->
        <x-hx class="text-blue-200">
          {{$title}}
        </x-hx>
